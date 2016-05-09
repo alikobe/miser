@@ -1,0 +1,7 @@
+language: java
+default:
+  unit_test:
+    exec:
+    #change this to your needs
+      - mvn clean
+      - mvn test

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="530" started-at="2016-05-09T08:55:51Z" finished-at="2016-05-09T08:55:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="530" started-at="2016-05-09T08:55:51Z" finished-at="2016-05-09T08:55:52Z">
+      <class name="miser_interface_test.miser.LogisticsListTest">
+        <test-method status="PASS" signature="testLogisticsListByArgError()[pri:0, instance:miser_interface_test.miser.LogisticsListTest@396a51ab]" name="testLogisticsListByArgError" duration-ms="512" started-at="2016-05-09T16:55:51Z" finished-at="2016-05-09T16:55:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogisticsListByArgError -->
+      </class> <!-- miser_interface_test.miser.LogisticsListTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
